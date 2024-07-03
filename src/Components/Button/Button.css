@@ -9,6 +9,9 @@
     font-weight: 800;
     margin: 0 0 1.5vh 0;
 }
+.button-container:hover{
+    background-color: #3c87f7;
+}
 @media (max-width: 768px) {
     .button-container{
         border-radius: 10px;

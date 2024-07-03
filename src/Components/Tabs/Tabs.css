@@ -16,6 +16,10 @@
     border: none;
     outline: none;
   }
+  .tab-button:hover{
+    background-color: #3c87f7;
+    color: #FFF;
+  }
   
   .tab-button.active {
     background-color: #73A9FA;
